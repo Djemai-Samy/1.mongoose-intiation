@@ -75,7 +75,7 @@ git clone https://gitlab.com/tutoriels-dev/2.server/2.nodejs/mongoose/1.mongoose
 ---
 
 ```bash
-cd ./mongoose-initiation
+cd ./1.mongoose-initiation
 ```
 
 ```bash

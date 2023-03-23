@@ -1,0 +1,32 @@
+{
+	"name": "1.mongoose-initiation",
+	"version": "1.0.0",
+	"description": "Un cours complet qui vous permettra de maîtriser l'utilisation de Mongoose avec Node.js pour la gestion de bases de données MongoDB dans vos projets Javascript.",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"dev": "nodemon index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+ssh://git@gitlab.com/tutoriels-dev/2.server/2.nodejs/mongoose/1.mongoose-initiation.git"
+	},
+	"keywords": [
+		"Tutoriel",
+		"Node.js",
+		"Mongoose",
+		"MongoDB"
+	],
+	"author": "Djemai Samy",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://gitlab.com/tutoriels-dev/2.server/2.nodejs/mongoose/1.mongoose-initiation/issues"
+	},
+	"homepage": "https://gitlab.com/tutoriels-dev/2.server/2.nodejs/mongoose/1.mongoose-initiation#readme",
+	"devDependencies": {
+		"nodemon": "^2.0.22"
+	},
+	"dependencies": {
+		"mongoose": "^7.0.2"
+	}
+}
