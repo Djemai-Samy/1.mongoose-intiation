@@ -21,7 +21,7 @@ Un cours complet qui vous permettra de maîtriser l'utilisation de Mongoose avec
 
 Chaque article à comme point de départ la branche **main** et possèdent tous une branche sur le dépot, contenant le code finale et complet de l'article:
 
-- [main](https://github.com/Djemai-Samy/mongoose-initiation)
+- [main](https://github.com/Djemai-Samy/1.mongoose-intiation)
 - [1-introduction](https://github.com/Djemai-Samy/1.mongoose-intiation/tree/1-introduction)
 - [2-operations](https://github.com/Djemai-Samy/1.mongoose-intiation/tree/2-operations)
 - [3-operators](https://github.com/Djemai-Samy/1.mongoose-intiation/tree/3-operators)
@@ -33,11 +33,11 @@ Chaque article à comme point de départ la branche **main** et possèdent tous 
 
 Chaque article à comme point de départ la branche **main** et possèdent tous une branche sur le dépot, contenant le code finale et complet de l'article:
 
-- [main](https://gitlab.com/tutoriels-dev/2.nodejs/mongoose/1.mongoose-initiation/-/tree/main)
-- [1-introduction](https://gitlab.com/tutoriels-dev/2.nodejs/mongoose/1.mongoose-initiation/-/tree/1-introduction)
-- [2-operations](https://gitlab.com/tutoriels-dev/2.nodejs/mongoose/1.mongoose-initiation/-/tree/2-operations)
-- [3-operators](https://gitlab.com/tutoriels-dev/2.nodejs/mongoose/1.mongoose-initiation/-/tree/3-operators)
-- [4-relations](https://gitlab.com/tutoriels-dev/2.nodejs/mongoose/1.mongoose-initiation/-/tree/4-relations)
+- [main](https://gitlab.com/tutoriels-dev/2.server/2.nodejs/mongoose/1.mongoose-initiation)
+- [1-introduction](https://gitlab.com/tutoriels-dev/2.server/2.nodejs/mongoose/1.mongoose-initiation/-/tree/1-introduction)
+- [2-operations](https://gitlab.com/tutoriels-dev/2.server/2.nodejs/mongoose/1.mongoose-initiation/-/tree/2-operations)
+- [3-operators](https://gitlab.com/tutoriels-dev/2.server/2.nodejs/mongoose/1.mongoose-initiation/-/tree/3-operators)
+- [4-relations](https://gitlab.com/tutoriels-dev/2.server/2.nodejs/mongoose/1.mongoose-initiation/-/tree/4-relations)
 
 ---
 
@@ -59,7 +59,7 @@ Chaque article à comme point de départ la branche **main** et possèdent tous 
 Vous pouvez commencer à suivre le cours en clonant le branche **main**:
 
 ```bash
-git clone https://github.com/Djemai-Samy/mongoose-initiation.git
+git clone https://github.com/Djemai-Samy/1.mongoose-intiation
 ```
 
 ---
@@ -69,7 +69,7 @@ git clone https://github.com/Djemai-Samy/mongoose-initiation.git
 Vous pouvez commencer à suivre le cours en clonant le branche **main**:
 
 ```bash
-git clone https://gitlab.com/tutoriels-dev/2.nodejs/mongoose/1.mongoose-initiation/-/tree/main
+git clone https://gitlab.com/tutoriels-dev/2.server/2.nodejs/mongoose/1.mongoose-initiation
 ```
 
 ---
