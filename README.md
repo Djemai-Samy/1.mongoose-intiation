@@ -1131,6 +1131,6 @@ Nous verrons les **différents types de relations** entre modèles et comment le
 
 ## Aller plus loin
 
-[Mongoose: Les opérationsn](https://djemai-samy.com/posts/2.mongoose-operations.article)
+[Mongoose: Les opérations](https://djemai-samy.com/posts/2.mongoose-operations.article)
 
 [Mongoose: Les Relations](https://djemai-samy.com/posts/4.mongoose-relations.article)
